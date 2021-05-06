@@ -15,7 +15,7 @@ function HeroSection() {
     };
     return (
         <div className="hero-container">
-            <video src="video-2.mp4" autoPlay loop muted />
+            <video src="video-4.mp4" autoPlay loop muted />
           
             <h1>I'M MOHAMED</h1>
             <p>A Software Engineer And I Built Awesome Applications</p>
