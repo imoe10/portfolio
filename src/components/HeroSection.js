@@ -18,7 +18,7 @@ function HeroSection() {
             <video src="video-4.mp4" autoPlay loop muted />
           
             <h1>I'M MOHAMED</h1>
-            <p>A Software Engineer And I Built Awesome Applications</p>
+            <p>A Software Engineer And I Build Awesome Applications</p>
             <i className="fas fa-map-marker-alt"></i>
             <div className="mylocation">Bangkok, Thailand</div>           
             <div className="hero-btns">
